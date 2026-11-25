@@ -1,0 +1,54 @@
+Ofertas reales: 10 (de 387 activas en jobs.json, generado 18 nov 2026)
+
+1. Food and Beverage | White Lodging/Austin Marriott Downtown | Austin, TX, USA | Trainee
+   etiqueta: Gastronomía / Servicio de sala / mesero/a
+   match con perfil ejemplo (turismo/recepción): 40.0% | coincide: experiencia, educación | falta: carrera, inglés, preferencias
+   clave duplicado: white lodging austin marriott downtown|mesero a|austin tx usa|2026-08
+   notas: Revisar carrera: la posición existe en más de una carrera.; Etiqueta en estado Propuesta (borrador 21 nov): el equipo la confirma.
+2. Hospitality Rotational | Boca Raton | Boca Raton, FL, USA | Trainee
+   etiqueta: por confirmar / por confirmar / por confirmar
+   match con perfil ejemplo (turismo/recepción): 40.0% | coincide: experiencia, educación | falta: carrera, inglés, preferencias
+   clave duplicado: boca raton|hospitality rotational|boca raton fl usa|2026-08
+   notas: por confirmar: programa rotativo, varias áreas; lo define el asesor
+3. Cocina y sala | Cobo Estratos Restaurante | Burgos, Spain | Internship España
+   etiqueta: Gastronomía / Cocina / cocinero/a
+   match con perfil ejemplo (turismo/recepción): 40.0% | coincide: experiencia, educación | falta: carrera, inglés, preferencias
+   clave duplicado: cobo estratos restaurante|cocinero a|burgos spain|2026-05
+   notas: Etiqueta en estado Propuesta (borrador 21 nov): el equipo la confirma.; Cubre cocina y sala; la etiqueta es la de cocina.
+4. Culinary Program | sponsor: por confirmar | Lake Buena Vista, FL, USA | Trainee
+   etiqueta: Gastronomía / Cocina / cocinero/a
+   match con perfil ejemplo (turismo/recepción): 40.0% | coincide: experiencia, educación | falta: carrera, inglés, preferencias
+   clave duplicado: por confirmar|cocinero a|lake buena vista fl usa|2026-06
+   notas: Etiqueta en estado Propuesta (borrador 21 nov): el equipo la confirma.; Sponsor no viene en el dato público del scraper (por confirmar).
+5. Accounting Program - 10750 | sponsor: por confirmar | Brooklyn, NY, USA | Trainee
+   etiqueta: Administración / por confirmar / por confirmar
+   match con perfil ejemplo (turismo/recepción): 40.0% | coincide: experiencia, educación | falta: carrera, inglés, preferencias
+   clave duplicado: por confirmar|accounting program 10750|brooklyn ny usa|2027-01
+   notas: Carrera fuera del Alcance 1: la especialidad y la posición las define el equipo.; Sponsor no viene en el dato público del scraper (por confirmar).
+6. Rooms Division | Kansas City Airport Marriott | Kansas City, MO, USA | Trainee
+   etiqueta: por confirmar / por confirmar / por confirmar
+   match con perfil ejemplo (turismo/recepción): 40.0% | coincide: experiencia, educación | falta: carrera, inglés, preferencias
+   clave duplicado: kansas city airport marriott|rooms division|kansas city mo usa|2027-01
+   notas: por confirmar: programa rotativo, varias áreas; lo define el asesor
+7. Engineering Trainee | HEI Hotels/Doubletree Pittsburgh Cranberry | Mars, PA, USA | Trainee
+   etiqueta: Ingeniería / por confirmar / por confirmar
+   match con perfil ejemplo (turismo/recepción): 40.0% | coincide: experiencia, educación | falta: carrera, inglés, preferencias
+   clave duplicado: hei hotels doubletree pittsburgh cranberry|engineering trainee|mars pa usa|2026-07
+   notas: Carrera fuera del Alcance 1: la especialidad y la posición las define el equipo.
+8. Rotación en alimentos y bebidas | Conrad Orlando at Evermore | Orlando, FL, USA | Trainee
+   etiqueta: por confirmar / por confirmar / por confirmar
+   match con perfil ejemplo (turismo/recepción): 40.0% | coincide: experiencia, educación | falta: carrera, inglés, preferencias
+   clave duplicado: conrad orlando at evermore|rotacion en alimentos y bebidas|orlando fl usa|2026-12
+   notas: por confirmar: programa rotativo, varias áreas; lo define el asesor
+9. Recepción | The Westin Hilton Head Island Resort & Spa | Hilton Head Island, SC, USA | Trainee
+   etiqueta: Hotelería / Recepción / recepcionista
+   match con perfil ejemplo (turismo/recepción): 90.0% | coincide: carrera, experiencia, educación, preferencias | falta: inglés
+   clave duplicado: the westin hilton head island resort spa|recepcionista|hilton head island sc usa|2027-01
+   notas: Revisar carrera: la posición existe en más de una carrera.; Etiqueta en estado Propuesta (borrador 21 nov): el equipo la confirma.
+10. Front Office Program - 11099 | sponsor: por confirmar | Cincinnati, OH, USA | Trainee
+   etiqueta: Hotelería / Recepción / recepcionista
+   match con perfil ejemplo (turismo/recepción): 90.0% | coincide: carrera, experiencia, educación, preferencias | falta: inglés
+   clave duplicado: por confirmar|recepcionista|cincinnati oh usa|2027-01
+   notas: Revisar carrera: la posición existe en más de una carrera.; Etiqueta en estado Propuesta (borrador 21 nov): el equipo la confirma.; Sponsor no viene en el dato público del scraper (por confirmar).
+
+Resumen: 5 con etiqueta completa, 2 solo con carrera, 3 sin etiqueta (por confirmar).
